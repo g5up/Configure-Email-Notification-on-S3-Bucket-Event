@@ -10,13 +10,10 @@ Company ABC is deploying a new web application that helps customers to upload fi
 
 
 <h2>Languages and Utilities Used</h2>
-
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Python</b> 
 
 <h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
+- <b>AWS</b> 
 
 <h2>Program walk-through:</h2>
 
@@ -61,7 +58,38 @@ Create an S3 Bucket.
 <img src="https://imgur.com/fY74TC9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+ Navigate to Services > Lambda
+ <br/>
+<img src="https://imgur.com/5kKbXph.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ Create Lambda function.
+ <br/>
+<img src="https://imgur.com/dsOEH8V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ Create Lambda function: In the function code section, replace the default code with a Lambda function that sends a notification to the SNS topic.
+ <br/>
+<img src="https://imgur.com/bOGI4kg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ Add trigger.
+ <br/>
+<img src="https://imgur.com/7FIRdcC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ Add destination.
+ <br/>
+<img src="https://imgur.com/k8wPouw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ Add destination.
+ <br/>
+<img src="https://imgur.com/k8wPouw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
+ 
 <!--
  ```diff
 - text in red
