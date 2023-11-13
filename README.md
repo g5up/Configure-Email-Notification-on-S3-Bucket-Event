@@ -26,26 +26,42 @@ Sign in to AWS Management Console
 <img src="https://imgur.com/BmKYyNr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Find SNS under Services and Application Integrations: <br/>
-<img src="https://imgur.com/wYawXVS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create an S3 Bucket.
+: <br/>
+<img src="https://imgur.com/8QXucbu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create a new topic" new-object: <br/>
-<img src="https://imgur.com/bJlXwMW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create an S3 Bucket.
+: <br/>
+<img src="https://imgur.com/H34C0IY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Launch the utility: <br/>
-<img src="https://imgur.com/BmKYyNr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Navigate to the SNS service.
+ <br/>
+<img src="https://imgur.com/2zWfCYe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Launch the utility: <br/>
-<img src="https://imgur.com/BmKYyNr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Create SNS topic.
+ <br/>
+<img src="https://imgur.com/34fMTFe.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Launch the utility: <br/>
-<img src="https://imgur.com/BmKYyNr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Click Create topic.
+ <br/>
+<img src="https://imgur.com/1lrVi0Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+ Click Subscription.
+ <br/>
+<img src="https://imgur.com/19Zs3pG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ Create subscription.
+ <br/>
+<img src="https://imgur.com/fY74TC9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
 <!--
  ```diff
 - text in red
