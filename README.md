@@ -85,7 +85,13 @@ Create an S3 Bucket.
 <br />
  Add destination.
  <br/>
-<img src="https://imgur.com/k8wPouw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/vqqB5uX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://imgur.com/DV2Rloy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://imgur.com/Q13fSNE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://imgur.com/vLl1pDx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://imgur.com/g2NNVHh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://imgur.com/yn9sDXx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 <br />
 <br />
 
